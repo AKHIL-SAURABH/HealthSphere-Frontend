@@ -106,7 +106,7 @@ This frontend **will NOT work independently**.
 
 You must have the backend running first:
 
-* **Backend Repo:** 👉 *HealthSphere Backend*
+* **Backend Repo:** 👉 *HealthSphere Backend* https://github.com/AKHIL-SAURABH/HealthSphere-Backend
 * **Backend Live URL (Render):**
   👉 [https://health-sphere-c2a3.onrender.com/](https://health-sphere-c2a3.onrender.com/)
 
