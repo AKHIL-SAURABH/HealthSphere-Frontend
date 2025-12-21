@@ -24,10 +24,7 @@ export default function LoginPage() {
       });
 
       // ✅ Centralized login (token + user + redirect)
-      login(data.access_token, {
-        name: data.user.name,
-        role: data.user.role,
-      });
+      login(data.access_token);
     } catch (err: any) {
       setError(err.message || "Login failed");
     } finally {
