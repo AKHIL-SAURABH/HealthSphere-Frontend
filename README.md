@@ -6,11 +6,13 @@
 > **HealthSphere** is a modern, role-based healthcare web application frontend built with **Next.js**.
 > It connects to the HealthSphere backend (FastAPI) to provide a complete hospital management experience for **Admins, Doctors, and Patients**.
 
+---
 🚀 **Live Web App (Vercel):**
 👉 **[https://health-sphere-frontend-eight.vercel.app](https://health-sphere-frontend-eight.vercel.app/login)**
 
 ⚠️ **Important:**
 The frontend **requires the backend server to be running** (deployed on Render) to function correctly.
+
 First create the users in backend at https://health-sphere-c2a3.onrender.com/docs at register endpoints then login as those users using above link.
 
 ---
