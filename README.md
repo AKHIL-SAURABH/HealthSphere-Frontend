@@ -6,7 +6,7 @@
 > **HealthSphere** is a modern, role-based healthcare web application frontend built with **Next.js**.
 > It connects to the HealthSphere backend (FastAPI) to provide a complete hospital management experience for **Admins, Doctors, and Patients**.
 
-![HealthAI Banner](https://github.com/AKHIL-SAURABH/HealthAI-Project/blob/master/healthai.png?raw=true)
+![HealthAI Banner](https://github.com/AKHIL-SAURABH/HealthSphere-Frontend/blob/main/HealthSphere%20healthcare%20management%20platform%20banner.png?raw=true)
 
 ---
 🚀 **Live Web App (Vercel):**
