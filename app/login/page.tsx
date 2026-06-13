@@ -33,10 +33,10 @@ export default function LoginPage() {
   };
 
   return (
-    <main className="min-h-screen flex items-center justify-center bg-gray-100">
+    <main className="min-h-screen flex items-center justify-center bg-gray-900">
       <form
         onSubmit={handleLogin}
-        className="bg-white p-8 rounded shadow-md w-full max-w-md"
+        className="bg-gray-800 p-8 rounded shadow-md w-full max-w-md text-white"
       >
         <h2 className="text-2xl font-bold mb-6 text-center">
           Login – Health Sphere
