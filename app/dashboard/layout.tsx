@@ -22,9 +22,9 @@ export default function DashboardLayout({
   if (loading) return null;
 
   return (
-    <div className="flex min-h-screen bg-gray-100">
+    <div className="flex min-h-screen bg-gray-900">
       {/* Sidebar */}
-      <aside className="w-64 bg-white shadow-md p-6">
+      <aside className="w-64 bg-gray-800 shadow-md p-6">
         <h2 className="text-xl font-bold mb-6 text-blue-600">
           HealthSphere
         </h2>
@@ -80,7 +80,7 @@ function NavItem({ label, href }: { label: string; href: string }) {
   return (
     <button
       onClick={() => router.push(href)}
-      className="w-full text-left px-3 py-2 rounded hover:bg-blue-100 text-gray-700"
+      className="w-full text-left px-3 py-2 rounded hover:bg-blue-900 text-gray-200"
     >
       {label}
     </button>
